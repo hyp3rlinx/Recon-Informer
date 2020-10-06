@@ -1,4 +1,6 @@
-# Recon-Informer
+# Recon-Informer.py (v1.2)
+By John Page (aka hyp3rlinx) (c)
+Original source: http://hyp3rlinx.altervista.org/advisories/Recon-Informer.txt
 
 Recon Informer v1.2 fixed: window title bug, removed pygetwindow module.
 
