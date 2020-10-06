@@ -184,13 +184,4 @@ Recon-Informer may report SYN scans as CONNECT scans as they become ambigous.
 DISCLAIMER:
 Author is NOT responsible for any damages whatsoever by using this software,
 by using Recon Informer you assume and accept all risk implied or otherwise.
-    ____                           ____      ____                              
-   / __ \___  _________  ____     /  _/___  / __/___  _________ ___  ___  _____
-  / /_/ / _ \/ ___/ __ \/ __ \    / // __ \/ /_/ __ \/ ___/ __ `__ \/ _ \/ ___/
- / _, _/  __/ /__/ /_/ / / / /  _/ // / / / __/ /_/ / /  / / / / / /  __/ /    
-/_/ |_|\___/\___/\____/_/ /_/  /___/_/ /_/_/  \____/_/  /_/ /_/ /_/\___/_/     
-                                                                     v1.2
-    Intel for offensive systems
-    ---------------------------
-    By Hyp3rlinx
-    ApparitionSec
+
