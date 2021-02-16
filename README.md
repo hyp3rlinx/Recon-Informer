@@ -1,8 +1,13 @@
-# Recon-Informer.py (v1.2)
-By John Page (aka hyp3rlinx) (c)
+# Recon-Informer.py (v1.3)
+By John Page (aka hyp3rlinx) Copyright (c) MIT License
 Original source: http://hyp3rlinx.altervista.org/advisories/Recon-Informer.txt
 
-Recon Informer v1.2 fixed: window title bug, removed pygetwindow module.
+Change log:
+Added: using -t flag we can process packets from a specific inbound IP address of interest.
+Added: timestamp for the detection results in console output window.
+Fix: utf-8 directive, for encoding error encountered in some older versions of Python.
+Fix: check for where window size is not relevant for UDP packets to prevent errors.
+Removed: script name in console window title to view CL arguments.
 
 Recon-Informer is a basic real-time anti-reconnaissance (nmap) detection tool for offensive security systems, useful for penetration testers.
 It runs on Windows/Linux and leverages scapy.
