@@ -1,11 +1,3 @@
-Use version 1.3 updated Feb 15, 2021
-
-Added: using -t flag we can process packets from a specific inbound IP address of interest.
-Added: timestamp for the detection results in console output window.
-Fix: utf-8 directive, for encoding error encountered in some older versions of Python.
-Fix: check for where window size is not relevant for UDP packets to prevent errors.
-Removed: script name in console window title to view CL arguments.
-
 # Recon-Informer.py (v1.2)
 By John Page (aka hyp3rlinx) (c)
 Original source: http://hyp3rlinx.altervista.org/advisories/Recon-Informer.txt
