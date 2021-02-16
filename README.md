@@ -2,7 +2,6 @@
 By John Page (aka hyp3rlinx) Copyright (c) MIT License
 Original source: http://hyp3rlinx.altervista.org/advisories/Recon-Informer.txt
 
-Change log:
 Added: using -t flag we can process packets from a specific inbound IP address of interest.
 Added: timestamp for the detection results in console output window.
 Fix: utf-8 directive, for encoding error encountered in some older versions of Python.
