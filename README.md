@@ -1,4 +1,6 @@
 # Recon-Informer.py (v1.3)
+Intel for offensive systems anti-reconnaissance tool.
+
 By John Page (aka hyp3rlinx) Copyright (c) MIT License
 Original source: http://hyp3rlinx.altervista.org/advisories/Recon-Informer.txt
 
