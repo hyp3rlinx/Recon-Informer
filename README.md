@@ -190,10 +190,9 @@ SYN packet with a large amount of TCP options
 If use NAT mode on VM the machine may perform 3-way handshake
 Recon-Informer may report SYN scans as CONNECT scans as they become ambigous.
 
-![ScreenShot](ReconInformer.png)
-
-
 DISCLAIMER:
 Author is NOT responsible for any damages whatsoever by using this software,
 by using Recon Informer you assume and accept all risk implied or otherwise.
+
+![ScreenShot](ReconInformer.png)
 
