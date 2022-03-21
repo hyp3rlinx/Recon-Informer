@@ -1,7 +1,7 @@
 # Recon-Informer.py (v1.3)
 Intel for offensive systems anti-reconnaissance tool.
 
-By John Page (aka hyp3rlinx) Copyright (c) 2020
+By John Page (aka hyp3rlinx) Copyright (c) 2020 <br />
 Original source: http://hyp3rlinx.altervista.org/advisories/Recon-Informer.txt
 
 Added: using -t flag we can process packets from a specific inbound IP address of interest.
